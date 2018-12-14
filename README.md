@@ -2,7 +2,10 @@
 
 ## What ?
 
+You will have to create a web site
+
 ## Why ?
+
 This assigment has been created to test all the knowledge and skills you acquired during \_blank's first session. 
 Thus, you'll have to create a web site from scratch following the given specs.
 Improving your project beyond instructions will be greatly appreciated and rewarded with Bonus Points.
