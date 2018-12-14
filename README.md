@@ -1,9 +1,9 @@
-# _blank's Winter Holidays project
+# \_blank's Winter Holidays project
 
 ## What ?
 
 ## Why ?
-This assigment has been created to test all the knowledge and skills you acquired during _blank's first session. 
+This assigment has been created to test all the knowledge and skills you acquired during \_blank's first session. 
 Thus, you'll have to create a web site from scratch following the given specs.
 Improving your project beyond instructions will be greatly appreciated and rewarded with Bonus Points.
 
