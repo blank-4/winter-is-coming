@@ -22,7 +22,7 @@ The deadline for this project is on the 06/01/2019 23:59:59.
 ## How ?
 
 The expected work must be on a GitHub repository in your personal account.
-It must be available as a [GitHub Pages website](https://pages.github.com/), i.e. visible at [http://<your-username>.github.io](http://\<your-username\>.github.io).
+It must be available as a [GitHub Pages website](https://pages.github.com/), i.e. visible at [http://\<your-username\>.github.io](http://\<your-username\>.github.io).
 
 We will review the code and aspect of the website for the last commit preceding the deadline.
 
@@ -38,8 +38,8 @@ Here are the detailed instructions.
 
 ### General
 
-You must provide a website, using HTML5, CSS3 and JavaScript (up to ES6 specification).
-This website must respect guidelines and best practices seen in classes.
+You must provide a website, using HTML5, CSS3 and JavaScript.
+This website must be syntactically valid and respect guidelines and best practices seen in classes.
 
 ### Content
 
@@ -56,7 +56,7 @@ The website MUST contain the following sections :
 #### Aspect
 
 - The general design of the website must good looking (or at least not hurt the eyes).
-- its design must respect mobile-first desgin principle.
+- its design must respect _mobile-first desgin_ principle.
 - its design must be responsive and feature display adjustement based on the target device.
 
 #### Layout and UI Components
@@ -76,25 +76,29 @@ The website MUST contain the following sections :
 - Your code must be understandable
 
 #### HTML
+
 - Your code has to respect the HTML5 syntax.
 - You have to demonstrate your knowledge of various HTML elements and attributes.
 - And demonstrate your understanding of HTML structural and semantic tags.
 
 #### CSS
+
 - The use of a CSS Framework is encouraged (not necessarily Bootstrap).
 - As CSS code validators indicate, we discourage the use of (m)any ID in HTML attributes. We recommend the use of CSS classes, as they potentially provide non-unique/reusable code.
 - We will appreciate the use of various CSS selector types.
 - The website must demonstrate the use of a transition and/or animations (useful or clean animations, don't overuse them).
 
 #### JavaScript
+
 - Your JS code must have understandable variables and functions names.
 - Your must demonstrate the use of functions/objects/arrays.
 - And demonstrate your understanding of DOM manipulation and event listeners.
 
 ### Version Constrol System
+
 You will have to use Git as Version Control System.
 
-You will have to demanonstrate a good usage and understanding of Version Constrol System's concepts :
+You will have to demonstrate a good usage and understanding of Version Constrol System's concepts :
 - Commits
 - Branches
 - Tags
@@ -121,8 +125,9 @@ You will have to demanonstrate a good usage and understanding of Version Constro
 
 ### JS (/3)
 - Syntax mastery
+- Usage of functions, objects and arrays
 - DOM manipulation
-- Usage of objects and arrays
+
 
 ### Version control (/2)
 - Git management (commit messages, uses of tags)
@@ -134,5 +139,3 @@ You will have to demanonstrate a good usage and understanding of Version Constro
 - The form actually sends an email (1)
   - You can use a third-party website so that it does something (example : [https://formspree.io/](https://formspree.io/))
 - Print stylesheet and link for your website. (1)
-
-[WTFPL](https://fr.wikipedia.org/wiki/WTFPL)
