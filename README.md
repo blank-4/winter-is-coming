@@ -3,9 +3,11 @@
 ## What ?
 
 You will have to create an _e-CV_ or _e-Portfolio_.
+
 It is a website destined to professionals and potential recruiters/employers, and available on the Web.
 
 More detailed instructions are available in the "Specs" section.
+
 Improving your project beyond instructions will be greatly appreciated and rewarded with Bonus Points.
 
 ## Why ?
@@ -116,14 +118,18 @@ You will have to demonstrate a good usage and understanding of Version Constrol 
 - Structural elements mastery
 - Variety of tags and attributes used
 
-### CSS (/5)
+### CSS (/4)
 - Syntax mastery
 - Mastery of CSS properties and values
 - Selectors variety and usage
-- Responsive design
 - Animations & transitions
 
-### JS (/3)
+### Responsive design (/2)
+- Mobile First Design
+- Readability
+- Adaptive Layout
+
+### JS (/2)
 - Syntax mastery
 - Usage of functions, objects and arrays
 - DOM manipulation
