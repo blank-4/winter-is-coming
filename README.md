@@ -77,14 +77,15 @@ The website MUST contain the following sections :
 - Your code must be understandable
 
 #### HTML
-
+- Your HTML code has to respect ... 
 
 #### CSS
 - The use of a CSS Framework is encouraged (not necessarily Bootstrap).
-
+- As CSS code validators indicate, we discourage the use of (m)any ID in HTML attributes. We recommend the use of CSS classes, as they potentially provide non-unique/reusable code.
+- We will appreciate the use of "complicated" CSS selectors.
 
 #### JavaScript
-
+- Your JS code must have understandable variables and functions names
 
 ### Version Constrol System
 You will have to use Git as Version Control System.
