@@ -10,7 +10,7 @@ Improving your project beyond instructions will be greatly appreciated and rewar
 
 ## Why ?
 
-This assigment has been created to test all the knowledge and skills you acquired during \_blank's first modules.
+This assigment has been created to test all the knowledge and skills you acquired during \_blank's first modules (up to the lesson on Timers/AJAX).
 
 Keep in mind that this website will be a useful tool for an internship or job search.
 
@@ -40,7 +40,6 @@ Here are the detailed instructions.
 
 You must provide a website, using HTML5, CSS3 and JavaScript (up to ES6 specification).
 This website must respect guidelines and best practices seen in classes.
-
 
 ### Content
 
@@ -77,15 +76,20 @@ The website MUST contain the following sections :
 - Your code must be understandable
 
 #### HTML
-- Your HTML code has to respect ... 
+- Your code has to respect the HTML5 syntax.
+- You have to demonstrate your knowledge of various HTML elements and attributes.
+- And demonstrate your understanding of HTML structural and semantic tags.
 
 #### CSS
 - The use of a CSS Framework is encouraged (not necessarily Bootstrap).
 - As CSS code validators indicate, we discourage the use of (m)any ID in HTML attributes. We recommend the use of CSS classes, as they potentially provide non-unique/reusable code.
-- We will appreciate the use of "complicated" CSS selectors.
+- We will appreciate the use of various CSS selector types.
+- The website must demonstrate the use of a transition and/or animations (useful or clean animations, don't overuse them).
 
 #### JavaScript
-- Your JS code must have understandable variables and functions names
+- Your JS code must have understandable variables and functions names.
+- Your must demonstrate the use of functions/objects/arrays.
+- And demonstrate your understanding of DOM manipulation and event listeners.
 
 ### Version Constrol System
 You will have to use Git as Version Control System.
@@ -95,23 +99,40 @@ You will have to demanonstrate a good usage and understanding of Version Constro
 - Branches
 - Tags
 
-### Functionalities
+## Evaluation scale (/20)
 
-### Front-end
+### General (/5)
+- Content matches the specifications
+- Project/Folder structure
+- Code quality (comments, naming conventions, indentation, ...)
+- W3C code validation
 
-The Front-end will have to be : 
-- Responsive (usable on tablet, mobile, and desktop)
+### HTML (/5)
+- Syntax mastery
+- Structural elements mastery
+- Variety of tags and attributes used
 
+### CSS (/5)
+- Syntax mastery
+- Mastery of CSS properties and values
+- Selectors variety and usage
+- Responsive design
+- Animations & transitions
 
-## Scoring scale (/20)
+### JS (/3)
+- Syntax mastery
+- DOM manipulation
+- Usage of objects and arrays
 
+### Version control (/2)
+- Git management (commit messages, uses of tags)
+- Github pages settings
 
-### Bonuses (+6)
+### Bonuses (+3)
 
 - UI/UX Mockups (1)
-- No validator warnings for your own code (i.e. does not include libraries and/or frameworks). (1)
-- The form actually sends an email (2)
-  - You can use a third-party website so that it does something (example : [https://formspree.io/](https://formspree.io/)
-- Use of Vue.js (1)
+- The form actually sends an email (1)
+  - You can use a third-party website so that it does something (example : [https://formspree.io/](https://formspree.io/))
+- Print stylesheet and link for your website. (1)
 
 [WTFPL](https://fr.wikipedia.org/wiki/WTFPL)
